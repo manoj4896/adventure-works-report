@@ -1,2 +1,2 @@
 # Adventure-Works-Report
-adventure works is a visualisation report 
+adventure works is a visualisation report
